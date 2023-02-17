@@ -1,0 +1,9 @@
+.width-center {
+    width: 500px;
+    margin: auto;
+}
+
+.flex-betwin {
+    display: flex;
+    justify-content: space-between;
+}
